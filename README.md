@@ -38,8 +38,8 @@
 
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sumeethmoolya.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/sumeeth-moolya-5969331ab"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sumeeth%20Moolya%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://instagram.com/sumeethmoolya?igshid=1pdr1ikoi5gui"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sumeethvs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/sumeeth-moolya-5969331ab"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sumeeth%20Moolya%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://instagram.com/sumeethmoolya?igshid=1pdr1ikoi5gui"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sumeeth24__-blue?style=flat-square&logo=instagram"></a>
 </p>
 
 ⭐️ From [Sumeeth-24](https://github.com/Sumeeth-24)
