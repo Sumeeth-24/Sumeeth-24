@@ -10,7 +10,6 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
 - 🌐 &nbsp;
@@ -26,7 +25,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
 <br/>
 
 <a href="https://github.com/AVS1508">
@@ -40,9 +38,8 @@
 
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sumeethmoolya.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sumeeth%20Moolya%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sumeethvs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-sumeethm@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/sumeeth-moolya-5969331ab"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sumeeth%20Moolya%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://instagram.com/sumeethmoolya?igshid=1pdr1ikoi5gui"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sumeethvs__-blue?style=flat-square&logo=instagram"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [Sumeeth-24](https://github.com/Sumeeth-24)
